@@ -5,7 +5,7 @@
   DTS:CreationName="DevartSalesforce">
   <DTS:ObjectData>
     <SalesforceConnectionManager>
-      <ConnectionString>Host=login.salesforce.com;User Id=ppa299@uky.edu</ConnectionString>
+      <ConnectionString>Host=login.salesforce.com;User Id=****</ConnectionString>
       </SalesforceConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
