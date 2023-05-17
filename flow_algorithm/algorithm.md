@@ -1,6 +1,8 @@
 
-<b>Input:</b> All addresses from hed__Address__c <br />
-<b>Output:</b> A subset of hed__Address__c, who are involved in duplicates <br />
+<b>Input:</b><br />
+	All addresses from hed__Address__c <br />
+<b>Output:</b><br />
+	A subset of hed__Address__c, who are involved in duplicates <br />
 	This subset of address will have following three properties added on them in output:
 	a. DupCount: Total number of duplicates for each address item.
 	b. DupAddressIds: Other identical addresses (max 50), saperated by comma.
