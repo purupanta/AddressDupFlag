@@ -14,5 +14,7 @@ We have built a process that flags all the duplicate address either "YES" (to be
 7. The process runs in the loop until it reaches the BatchId_Max.
 8. The final outcome will be stored in the table, "ADT2_AddressesInvolvedInDupsFinal" 
 
-A detailed algorithm can be found here
-The control flow can be found [here](/flow_algorithm/CFlow AddressDup Flag.pdf).
+<hr /><b>
+A detailed algorithm can be found here <br />
+The control flow can be found [here]([/flow_algorithm/CFlow AddressDup Flag.pdf](https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf)).
+</b>
