@@ -5,11 +5,7 @@
   DTS:CreationName="DevartSalesforce">
   <DTS:ObjectData>
     <SalesforceConnectionManager>
-      <ConnectionString>Host=test.salesforce.com;User Id=ppa299@uky.edu.fullcopy</ConnectionString>
-      <Password
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFW6D2F65dE2v90bnPzwnXgAAAAACAAAAAAADZgAAwAAAABAAAAATzfLHRrecfZVkhUNHKKfXAAAAAASAAACgAAAAEAAAAH+te7hDxkNkhQfQ+MEzjLw4AAAAzKLx94Xp3qi9ksWS8UUMfP0VS8RWfIyzKd9IeNV/593NNOWt3zSnv3xtMJMDa4kXjdeypa/FBhEUAAAArYhpUeOO2Ug357qGWNst80NRgoM=</Password>
-      <SecurityToken
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFW6D2F65dE2v90bnPzwnXgAAAAACAAAAAAADZgAAwAAAABAAAAA3CKrpE97+ufWZI48HuwlUAAAAAASAAACgAAAAEAAAAPgSkC685dSG/VY/5ut4YDhIAAAACuR4ArfrdxIbNp20pN/oURghjxlHyvXoH9eqW+iOD9uPMSkK8b2lJ36nzIZe+pfypNxorS8YjYou/kx2mfCLySEe7Kp0lJ+SFAAAAIQjEyNVSG8fdSfevHFok5Etl+/k</SecurityToken>
-    </SalesforceConnectionManager>
+      <ConnectionString>Host=test.salesforce.com;User Id=****.fullcopy</ConnectionString>
+      </SalesforceConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
