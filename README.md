@@ -19,5 +19,6 @@ A detailed algorithm can be found: <br />
   https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/algorithm.md
 <br />
 The control flow can be found at:
+  https://lucid.app/lucidchart/88e8e10b-bae4-4db4-bb03-12edb840c57f/edit?page=R-kYtopU1ZtK&invitationId=inv_15c606e0-4b59-4ea3-af61-f2c74201b432#
   https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf
 </b>
