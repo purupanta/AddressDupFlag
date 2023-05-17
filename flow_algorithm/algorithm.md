@@ -1,5 +1,5 @@
 
-<strong>Input:</strong> All addresses from hed__Address__c
+<strong>Input:</strong> All addresses from hed__Address__c <br>
 <strong>Output:</strong> A subset of hed__Address__c, who are involved in duplicates.
 	This subset of address will have following three prperties added on them in output:
 	      a. DupCount: Total number of duplicates for each address item.
