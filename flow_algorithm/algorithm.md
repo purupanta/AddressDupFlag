@@ -57,7 +57,6 @@
 <hr />
 <b>Building "DupKey": </b>
 
-Build_DupKey:
 	Trim, Convert To Lowercase and Concatenate in the following order:
 		DupKey = 
 		hed__Parent_Contact__c, hed__Parent_Account__c,  hed__MailingStreet__c, hed__MailingStreet2__c, 
