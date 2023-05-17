@@ -15,7 +15,7 @@ We have built a process that flags all the duplicate address either "YES" (to be
 8. The final outcome will be stored in the table, "ADT2_AddressesInvolvedInDupsFinal" 
 
 <hr /><b>
-A detailed algorithm can be found here <br />
+A detailed algorithm can be found [Contribution guidelines for this project](flow_algorithm/algorithm.md) <br />
 The control flow can be found [here](https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf)).
 </b>
 
