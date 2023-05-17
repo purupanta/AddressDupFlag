@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ppa299@uky.edu"
+  DTS:DTSID="{691F9496-414B-466F-ABC8-A4780C5155B9}"
+  DTS:CreationName="DevartSalesforce">
+  <DTS:ObjectData>
+    <SalesforceConnectionManager>
+      <ConnectionString>Host=login.salesforce.com;User Id=ppa299@uky.edu</ConnectionString>
+      <Password
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFW6D2F65dE2v90bnPzwnXgAAAAACAAAAAAADZgAAwAAAABAAAAD+VwyPU6VszJhcKWSnekn1AAAAAASAAACgAAAAEAAAAEeOswpx2yWntykekhcBSdY4AAAALSb0bRd7Z6jHmv2h5gC6ZqBrkazgDMAu2Fjqzz+yH3urnrM5kxEd3Fcs5C41uIBAayqT3sB1Zo4UAAAAiNEdRdHCcvxq4NfI8zg69KfXuvI=</Password>
+      <SecurityToken
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFW6D2F65dE2v90bnPzwnXgAAAAACAAAAAAADZgAAwAAAABAAAADm5kcWvbTyPZuMpWcwH8JVAAAAAASAAACgAAAAEAAAAMdcAnDn5cRMUFyZe3XnTJNIAAAAqI+OT00vMpbvszPM4j8ngcWT8uzhbq6CiefllQLUHw7PKCdDrm644XxvysjBHBHuOZHa+2Y/+MfpGBpMynNeB+4Hjc18SzxXFAAAAP0HQXu7oX68YtUGwXprW15s2z9H</SecurityToken>
+    </SalesforceConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
