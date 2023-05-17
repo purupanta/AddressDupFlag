@@ -20,4 +20,4 @@ A detailed algorithm can be found [Contribution guidelines for this project](./f
 The control flow can be found [here](https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf)).
 </b>
 
-[GitHub Pages]([https://pages.github.com/](https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf])
+[GitHub Pages](https://pages.github.com/](https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf)
