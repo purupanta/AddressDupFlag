@@ -32,3 +32,23 @@
 
 	For each Address in new table, "ADT1_AddressesInvolvedInDups":
 		Assign the BatchId Based on its ContactId
+
+
+<b>Address_Processing:</b>
+
+	BatchId_Min = 1; //Minimum BatchId number assigned by the previous process
+	BatchId_Max = 1038985 //Maximum BatchId number assigned by the previous process
+	BatchSize = 300000; //Took arbitrary based on data dispersion (through query on table) to divide the whole process.
+
+
+	BatchId_LB = BatchId_Min
+	BatchId_UB = BatchId_Max
+
+	For each Addresses in BatchRange (BatchId_LB, BatchId_UB):
+		Group By Contact:
+			Group By DupKey:
+				DupCount = Count address-items in this group
+				DupAddressIds = Collect addresses_id of each address-item in this group (separated by comma)
+				DupFlag = "NO" for first address-item. "YES" for all other address-items in this group
+
+				Assign DupCount, DupAddressIds, DupFlag in each address-items in group
