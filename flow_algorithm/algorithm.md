@@ -1,12 +1,10 @@
-Input: All addresses from hed__Address__c
-Output: A subset of hed__Address__c, who are involved in duplicates.
-		
-	This subset of address will have following three prperties added
-	on them in output:
+
+<b>Input:</b> All addresses from hed__Address__c <br />
+<b>Output:</b> A subset of hed__Address__c, who are involved in duplicates <br />
+	This subset of address will have following three properties added on them in output:
 	a. DupCount: Total number of duplicates for each address item.
 	b. DupAddressIds: Other identical addresses (max 50), saperated by comma.
 	c. DupFlag: "YES" = YES to delete; "NO" = NO to delete as we keep one address from the list of duplicate addresses.
-
 
 	Condition: The addresses are said to be duplicates if they are in:
 		a. Same contact (Or Account if Contact is not associated with Address) And,
