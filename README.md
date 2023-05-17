@@ -18,3 +18,5 @@ We have built a process that flags all the duplicate address either "YES" (to be
 A detailed algorithm can be found here <br />
 The control flow can be found [here](https://github.com/purupanta/AddressDupFlag/blob/main/flow_algorithm/CFlow%20AddressDup%20Flag.pdf)).
 </b>
+
+[GitHub Pages](https://pages.github.com/)
