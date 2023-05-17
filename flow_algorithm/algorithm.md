@@ -58,8 +58,11 @@
 <b>Building "DupKey": </b>
 
 Build_DupKey:
-
-	Concatenate the string in the following order:
+	Trim, Convert To Lowercase and Concatenate in the following order:
+		DupKey = 
 		hed__Parent_Contact__c, hed__Parent_Account__c,  hed__MailingStreet__c, hed__MailingStreet2__c, 
 		hed__MailingCity__c, hed__MailingState__c, hed__MailingPostalCode__c,
 		hed__MailingCounty__c
+		
+<hr />
+		
