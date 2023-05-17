@@ -1,4 +1,4 @@
-# AddressDupFlag: Synopsis <hr />
+# Synopsis - AddressDupFlag <hr />
 
 Issue: The salesforce HEDA address object, "hed__Address__c" is currently containing a bulk of duplicate addresses. We are trying to get rid of same addresses for same contact (or account if contact is not present) are taking space in salesforce address object.
 <hr />
