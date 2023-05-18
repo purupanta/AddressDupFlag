@@ -1,6 +1,6 @@
 # Synopsis - AddressDupFlag <hr />
 
-Issue: The salesforce HEDA address object, "hed__Address__c" is currently containing a bulk of duplicate addresses. We are trying to get rid of same addresses for same contact (or account if contact is not present) are taking space in salesforce address object.
+<u>Problem Statement:</u> The salesforce HEDA address object, "hed__Address__c" is currently containing a bulk of duplicate addresses. We are trying to get rid of same addresses for same contact (or account if contact is not present) are taking space in salesforce address object.
 <hr />
 
 We have built a process that flags all the duplicate address either "YES" (to be deleted) or "NO" (not to be deleted). Following is the basic description of how the process works:
